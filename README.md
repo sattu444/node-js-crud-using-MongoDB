@@ -1,5 +1,5 @@
 
-# node-js-crud-using-mysql
+# node-js-crud-using-MongoDB
 ------------------------------------step-1---------------------------------
 
 First create package.json folder by initiating npm ##use this command-----(npm i -yes)##
